@@ -8,3 +8,6 @@ estou  estudando dentro da plataforma [altura]https://www.altura.com.br}.
   
 **projetos realizados:**
 - ping pong no Scratch:https:https:https://github.com/diego2007kayky
+- https://scratch.mit.edu/projects/993890480
+- https://scratch.mit.edu/projects/987539400
+- https://scratch.mit.edu/projects/983045734
